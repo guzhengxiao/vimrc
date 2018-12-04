@@ -1,0 +1,3 @@
+[submodule "pack/guzhengxiao/start/molokai"]
+	path = pack/guzhengxiao/start/molokai
+	url = https://github.com/tomasr/molokai.git
