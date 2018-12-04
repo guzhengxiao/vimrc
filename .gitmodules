@@ -1,3 +1,18 @@
 [submodule "pack/guzhengxiao/start/molokai"]
 	path = pack/guzhengxiao/start/molokai
 	url = https://github.com/tomasr/molokai.git
+[submodule "pack/guzhengxiao/start/ale"]
+	path = pack/guzhengxiao/start/ale
+	url = https://github.com/w0rp/ale.git
+[submodule "pack/guzhengxiao/start/nerdtree"]
+	path = pack/guzhengxiao/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "pack/guzhengxiao/start/obsidian2.vim"]
+	path = pack/guzhengxiao/start/obsidian2.vim
+	url = https://github.com/vim-scripts/obsidian2.vim.git
+[submodule "pack/guzhengxiao/start/peaksea"]
+	path = pack/guzhengxiao/start/peaksea
+	url = https://github.com/vim-scripts/peaksea.git
+[submodule "pack/guzhengxiao/start/vim-gocode"]
+	path = pack/guzhengxiao/start/vim-gocode
+	url = https://github.com/Blackrush/vim-gocode.git
