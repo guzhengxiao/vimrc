@@ -16,3 +16,6 @@
 [submodule "pack/guzhengxiao/start/vim-gocode"]
 	path = pack/guzhengxiao/start/vim-gocode
 	url = https://github.com/Blackrush/vim-gocode.git
+[submodule "pack/guzhengxiao/start/freya"]
+	path = pack/guzhengxiao/start/freya
+	url = https://github.com/vim-scripts/freya.git
