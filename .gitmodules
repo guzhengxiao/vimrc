@@ -19,3 +19,6 @@
 [submodule "pack/guzhengxiao/start/freya"]
 	path = pack/guzhengxiao/start/freya
 	url = https://github.com/vim-scripts/freya.git
+[submodule "pack/guzhengxiao/start/markdown-preview.vim"]
+	path = pack/guzhengxiao/start/markdown-preview.vim
+	url = https://github.com/iamcco/markdown-preview.vim.git

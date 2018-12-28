@@ -1,6 +1,8 @@
 set nocompatible
 filetype off
 
+let g:mkdp_path_to_chrome = "open -a Google\\ Chrome"
+
 set rtp+=/usr/local/opt/fzf
 packloadall
 " Load all of the helptags now, after plugins have been loaded.
